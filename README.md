@@ -5,7 +5,7 @@
 Enterprise software platform - project ideas 
 
 
-Idea 2: 
+Idea 1: 
 
 
 What is the probability of getting an H1b visa?
