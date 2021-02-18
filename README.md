@@ -5,9 +5,8 @@
 Enterprise software platform - project ideas 
 
 
-Idea 1: 
+Idea 2: 
 
-Look at the questions to ask and available data sets here ( https://usafacts.org/issues/immigration/ ) and create a dashboard for legal immigrants that can help answer questions such as: 
 
 What is the probability of getting an H1b visa?
 Is issuance H1b visas skewed on particular companies or industries.?
@@ -21,7 +20,7 @@ Impact on decrease in h1b visa issuance on the US economy?
  
 Idea 2:
  
-Look at available data sets and create a dashboard for US taxpayers which can answer important questions such as:
+Creating a dashboard for US taxpayers which can answer important questions such as:
 What is the  burden on taxpayers regarding firearm related crimes ?
 What is the burden on taxpayers for prisoners in private prison vs state prison?
 Impact of pending court cases on economy and taxpayers?, correlation with specific types of crime?
