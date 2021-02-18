@@ -13,14 +13,14 @@ Enterprise software platform - project ideas
 Idea 1: 
 
 
-What is the probability of getting an H1b visa?_
+What is the probability of getting an H1b visa?<br>
 
-Is issuance H1b visas skewed on particular companies or industries.?_
-What will be the benefit to the US economy if the US implements time bond citizenship for immigrant workers?_
-Effects  of Unauthorized immigrants on legal immigrants and the US economy ?_
-What are the effects of covid on issuance of H1b ?_
-What was the effect of previous government policies on H1B visas ?_
-Impact on decrease in h1b visa issuance on the US economy?_
+Is issuance H1b visas skewed on particular companies or industries.?
+What will be the benefit to the US economy if the US implements time bond citizenship for immigrant workers?
+Effects  of Unauthorized immigrants on legal immigrants and the US economy ?<br>
+What are the effects of covid on issuance of H1b ?
+What was the effect of previous government policies on H1B visas ?
+Impact on decrease in h1b visa issuance on the US economy?
  
  
  
