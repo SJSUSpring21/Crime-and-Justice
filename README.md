@@ -1,5 +1,10 @@
  Team 3 
 
+Pavan 
+Meena
+Pratik
+Puneet
+
 
 
 Enterprise software platform - project ideas 
