@@ -5,8 +5,6 @@
 - Pratik
 - Puneet 
  
-Idea 2:
-
 # Crime and Justice
 
 
