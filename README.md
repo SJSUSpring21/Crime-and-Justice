@@ -27,3 +27,6 @@ Analyse and study crime data to create an interactive dashboard on the burden it
 - https://usafacts.org/data/topics/security-safety/crime-and-justice/
 - https://www.irs.gov/statistics
 - https://www.atf.gov/firearms
+
+## Architecture diagram![Crime and Justice Dashboard](https://user-images.githubusercontent.com/54655276/110677545-228bf680-818a-11eb-81c8-62031da0ddcf.jpeg)
+
