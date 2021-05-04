@@ -11,11 +11,12 @@
 ## Introduction to the problem statement
 Analyse and study crime data to create an interactive dashboard on the burden it poses on taxpayers. 
 ## Abstract:
-- What's the burden on taxpayers for prisoners in private prison vs state prison?
-- Impact of pending court cases on economy and taxpayers?, correlation with specific types of crime?
+
+- Impact of taxpayers’ money on crime and justice.
+- Economic cost of gun violence 
 - Correlation between certain types of firearms and crime?
-- Impact of taxpayers’ money on the judiciary system.
 - Money spent on healthcare by the Government on firearm crime victims and perpetrators(rehab, medical conditioning).
+
 
 
 ## Approach
