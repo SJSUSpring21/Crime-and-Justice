@@ -6,7 +6,9 @@
  {% block content %}
 <div class='tableauPlaceholder' id='viz1619930778379' style='position: relative'>
     <noscript>
-    <a href='#'><img alt='Projection Graphs ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TaxPayersImpact&#47;TaxImpact&#47;1_rss.png' style='border: none' /></a>
+    <a href='#'>
+        <img alt='Projection Graphs ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TaxPayersImpact&#47;TaxImpact&#47;1_rss.png' style='border: none' />
+    </a>
 </noscript>
     <object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
         <param name='embed_code_version' value='3' />
@@ -24,23 +26,47 @@
         <param name='filter' value='publish=yes' />
     </object>
 </div>
+<div class='tableauPlaceholder' id='viz1620160245173' style='position: relative'>
+    <noscript><a href='#'>
+        <img alt='judiciary_budget ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;pe&#47;pendingcourtcases&#47;judiciary_budget&#47;1_rss.png' style='border: none' />
+    </a>
+    </noscript>
+    <object class='tableauViz'  style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+        <param name='name' value='pendingcourtcases&#47;judiciary_budget' />
+        <param name='tabs' value='no' /><param name='toolbar' value='yes' />
+        <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;pe&#47;pendingcourtcases&#47;judiciary_budget&#47;1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en' /></object>
+</div>
 <div>
     <br>
     <br>
 </div>
 <div class="card-deck">
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card image cap">
+    <img class="card-img-top" src="/static/assets/img/taxes1.jpeg" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <h5 class="card-title"></h5>
+      <p class="card-text">
+          <ul>
+            <li>Avg yearly firearms deaths in the united states is, 3231 out of which, 58% of it are of children and teens.</li>
+            <li>95% of the avg yearly firearm related deaths recorded in district of Columbia were among children and teens.</li>
+            <li>California registers 240 avg yearly firearms related deaths out of which, 73% of them were related to teens and children. </li>
+        </ul>
+      </p>
     </div>
     <div class="card-footer">
       <small class="text-muted">Last updated 3 mins ago</small>
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card image cap">
+    <img class="card-img-top" src="/static/assets/img/taxes3.jpeg" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
@@ -50,7 +76,7 @@
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="..." alt="Card image cap">
+    <img class="card-img-top" src="/static/assets/img/judicary1.jpeg" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
@@ -69,6 +95,16 @@
     var scriptElement = document.createElement('script');
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+<script type='text/javascript'>
+var divElement = document.getElementById('viz1620160245173');
+var vizElement = divElement.getElementsByTagName('object')[0];
+if ( divElement.offsetWidth > 800 )
+{ vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 )
+{ vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='927px';}
+var scriptElement = document.createElement('script');
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
 {% endblock javascripts %}
