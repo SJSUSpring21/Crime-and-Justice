@@ -30,5 +30,6 @@ Analyse and study crime data to create an interactive dashboard on the burden it
 - https://www.atf.gov/firearms
 
 ## Architecture diagram
-![Crime and Justice Dashboard](https://lucid.app/lucidspark/invitations/accept/inv_733fb901-4d5f-4992-8def-9fbbf45a513e?viewport_loc=-351%2C-170%2C3072%2C1580%2C0_0)
+![Crime and Justice Dashboard](![Copy of Crime and Justice Dashboard](https://user-images.githubusercontent.com/55907143/117076876-0325cb80-acec-11eb-88ec-b3124f6da979.png)
+)
 
